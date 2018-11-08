@@ -39,6 +39,7 @@ namespace SGH
             {
                 Console.WriteLine($"{item.Dni},{item.Nombre},{item.Apellido}");
             }
+            Console.WriteLine("new change");
         }
     }
 }
